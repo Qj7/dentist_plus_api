@@ -1,24 +1,3 @@
-# README
+# Ruby SDK
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Documentation available at: [Ruby SDK Documentation](https://www.notion.so/Technical-Documentation-1a5aa7fdc30c800c90b6fb30b588f4a3)
